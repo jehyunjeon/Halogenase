@@ -7,5 +7,4 @@ This repository provides the profile Hidden Markov model for flavin-dependent tr
 
 # Filtering result of pHMM search
 * Step 1: pHMM search
-
-To perform the pHMM search, *hmmscan* in HMMER3.0 package is used with "--domtblout" option.
+- To perform the pHMM search, *hmmscan* in HMMER3.0 package is used with "--domtblout" option.
