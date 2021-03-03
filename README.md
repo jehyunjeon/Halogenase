@@ -1,5 +1,5 @@
 # Halogenase
-This repository provides the profile hidden Markov model for flavin-dependent tryptophan halogenase (Trp-FDH) and Python script for filtering result of pHMM search.
+This repository provides the profile hidden Markov model (pHMM) for flavin-dependent tryptophan halogenase (Trp-FDH) and Python script for filtering result of pHMM search.
 
 ## Pre-installed programs
 * Python version 2.7.12 or higher
