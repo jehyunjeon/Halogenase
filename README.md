@@ -9,6 +9,6 @@ This repository provides the profile Hidden Markov model for flavin-dependent tr
 ## Step 1: pHMM search
 To perform the pHMM search, *hmmscan* in HMMER3.0 package is used with "--domtblout" option.
 Usage:
-'''
-hmmscan --domtblout [output.domtblout] [Trp_FDH.hmm] [query.fasta]
-'''
+
+>hmmscan --domtblout output.domtblout Trp_FDH.hmm query.fasta
+
