@@ -15,3 +15,4 @@ Usage:
 
 >hmmscan --domtblout output.domtblout Trp_FDH.hmm query.fasta
 
+## Step 2: filtering .domtblout file
