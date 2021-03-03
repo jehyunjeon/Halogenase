@@ -13,8 +13,8 @@ A query should be included as protein sequences in the FASTA format file.
 
 Usage:
 
-'''
+```
 hmmscan --domtblout output.domtblout Trp_FDH.hmm query.fasta
-'''
+```
 
 ## Step 2: filtering .domtblout file
