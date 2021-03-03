@@ -12,7 +12,7 @@ To perform the pHMM search, *hmmscan* in HMMER3.0 package is used with "--domtbl
 A query should be included as protein sequences in the FASTA format file.
 
 Usage:
-
->hmmscan --domtblout output.domtblout Trp_FDH.hmm query.fasta
-
+'''
+hmmscan --domtblout output.domtblout Trp_FDH.hmm query.fasta
+'''
 ## Step 2: filtering .domtblout file
