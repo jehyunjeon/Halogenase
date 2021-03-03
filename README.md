@@ -9,14 +9,12 @@ This repository provides the profile hidden Markov model for flavin-dependent tr
 ### Step 1: pHMM search
 To perform the pHMM search, *hmmscan* in HMMER3.0 package is used with "--domtblout" option.   
 A query should be included as protein sequences in the FASTA format file.   
-Usage:   
 ```
-hmmscan --domtblout output_file_name.domtblout Trp_FDH.hmm query.fasta
+$ hmmscan --domtblout output_file_name.domtblout Trp_FDH.hmm query.fasta
 ```
 
 ### Step 2: filtering .domtblout file
 To filter the .domtblout file, ```code/domtblout_filtering.py``` is used.   
-Usage:   
 ```
-python domtblout_filtering.py -i input.domtblout -o output_file_name.domtblout -e e-value -c model_coverage
+$ python domtblout_filtering.py -i example/example_input.domtblout -o example/example_output.domtblout -e e-value -c model_coverage
 ```
