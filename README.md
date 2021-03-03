@@ -14,4 +14,6 @@ Usage:
 hmmscan --domtblout output.domtblout Trp_FDH.hmm query.fasta
 ```
 
-## Step 2: filtering .domtblout file
+### Step 2: filtering .domtblout file
+To filter the .domtblout file, ```domtblout_filtering.py``` is used.
+
