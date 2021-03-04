@@ -19,3 +19,6 @@ According to the threshold for e-value and pHMM model coverage, the search resul
 ```
 $ python domtblout_filtering.py -i example/example_input.domtblout -o example/example_output.domtblout -e e-value -c model_coverage
 ```
+
+## Putative FDHs   
+Protein sequences of eleven putative FDHs (Hal1-7 and MHal1-4) are in ```/putative_FDHs```.
