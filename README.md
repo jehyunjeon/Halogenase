@@ -27,7 +27,7 @@ $ python domtblout_filtering.py -i example/example_input.domtblout -o example/ex
 
 >## Halogenases on embedding space   
 * The list of 313 halogenases used in embedding (t-SNE) are in ```/halogenases_on_embedding_space```.   
-* Each file includes accession number, annotation, and source organism of halogenases.   
+* Each ```.csv``` file includes accession number, annotation, and source organism of halogenases.   
 
 |File name|Description|# of halogenases|
 |:----|:----|:----|
