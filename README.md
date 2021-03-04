@@ -2,7 +2,7 @@
 This repository provides the profile hidden Markov model (pHMM) for flavin-dependent tryptophan halogenase (Trp-FDH) and Python script for filtering result of pHMM search.
 
 >## Pre-installed programs
-* Python version 2.7.12 or higher
+* Python version 2.7.12 or higher with argparse library
 * HMMER3.0 package version 3.1b2 or higher
 
 >## Filtering result of pHMM search
@@ -13,7 +13,7 @@ This repository provides the profile hidden Markov model (pHMM) for flavin-depen
 $ hmmscan --domtblout output_file_name.domtblout pHMM/Trp_FDH.hmm query.fasta
 ```
 
-### Filtering .domtblout file
+* ### Filtering .domtblout file
   - To filter the .domtblout file, ```code/domtblout_filtering.py``` is used.   
   - According to the threshold for e-value and pHMM model coverage, the search result is filtered.
 ```
