@@ -23,7 +23,7 @@ $ python domtblout_filtering.py -i example/example_input.domtblout -o example/ex
 ```
 
 >## Putative FDHs   
-* Protein sequences of eleven putative FDHs (Hal1-7 and MHal1-4) are in ```/putative_FDHs```.
+* Protein sequences of eleven putative FDHs (Hal1-7 and MHal1-4) are in ```/putative_FDHs``` as ```.faa``` files.
 
 >## Halogenases on embedding space   
 * The list of 313 halogenases used in embedding (t-SNE) are in ```/halogenases_on_embedding_space```.   
