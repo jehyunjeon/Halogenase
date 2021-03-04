@@ -25,6 +25,8 @@ Protein sequences of eleven putative FDHs (Hal1-7 and MHal1-4) are in ```/putati
 
 ## Halogenases on embedding space   
 The list of 313 halogenases used in embedding (t-SNE) are in ```/halogenases_on_embedding_space```.   
+|---|:---:|---:|
+
 * 1_known.csv         : 33 previously identified halogenases
 * 2_keyword-search.csv: 109 halogenases obtained from NCBI by keyword and pHMM search
 * 3_inside_BGC.csv    : 20 halogenases inside BGC
