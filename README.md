@@ -6,7 +6,7 @@ This repository provides the profile hidden Markov model (pHMM) for flavin-depen
 * HMMER3.0 package version 3.1b2 or higher
 
 >## Filtering result of pHMM search
-### pHMM search
+* ### pHMM search
   - To perform the pHMM search, *hmmscan* in HMMER3.0 package is used with "--domtblout" option.   
   - A query should be included as protein sequences in the FASTA format file.   
 ```
