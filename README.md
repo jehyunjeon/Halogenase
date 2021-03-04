@@ -10,6 +10,7 @@ This repository provides the profile hidden Markov model (pHMM) for flavin-depen
   - To perform the pHMM search, *hmmscan* in HMMER3.0 package is used with "--domtblout" option.   
   - A query should be included as protein sequences in the FASTA format file.   
 ```
+USAGE:
 $ hmmscan --domtblout output_file_name.domtblout pHMM/Trp_FDH.hmm query.fasta
 ```
 
@@ -17,6 +18,7 @@ $ hmmscan --domtblout output_file_name.domtblout pHMM/Trp_FDH.hmm query.fasta
   - To filter the .domtblout file, ```code/domtblout_filtering.py``` is used.   
   - According to the threshold for e-value and pHMM model coverage, the search result is filtered.
 ```
+USAGE:
 $ python domtblout_filtering.py -i example/example_input.domtblout -o example/example_output.domtblout -e e-value -c model_coverage
 ```
 
