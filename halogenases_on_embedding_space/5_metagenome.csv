@@ -1,0 +1,69 @@
+Sequence name,Accession number of homologous protein,Percent identity (%),"Annotations (NCBI, UniProt)",Source organism
+Ar1_1222680_69_1637_-,NDF85594.1,68.67,tryptophan 7-halogenase,Gammaproteobacteria bacterium
+Ar1_1273459_1548_3064_+,PCJ50188.1,77.09,tryptophan halogenase,Gammaproteobacteria bacterium
+Ar1_1374816_225_1709_-,NNE61453.1,75.26,tryptophan 7-halogenase,Woeseia sp.
+Ar1_2283313_359_1873_+,NDF85594.1,68.27,tryptophan 7-halogenase,Gammaproteobacteria bacterium
+Ar1_2529987_2232_3716_+,NNC58199.1,85.34,tryptophan 7-halogenase,Woeseiaceae bacterium
+Ar1_3761472_837_2447_-,NQY97541.1,79.43,tryptophan 7-halogenase,Henriciella sp.
+Ar1_6094293_1222_2841_-  (MHal3),WP_142899656.1,60.16,tryptophan 7-halogenase,Denitrobaculum tricleocarpae
+Ar1_7075257_392_1882_-,NNE61453.1,70.04,tryptophan 7-halogenase,Woeseia sp.
+Ar1_891060_213_1690_+,NNC58199.1,87.06,tryptophan 7-halogenase,Woeseiaceae bacterium
+Ar2_1639432_208_1692_-,NCF63038.1,78.83,tryptophan halogenase,Gammaproteobacteria bacterium
+Ar2_4877749_103_1581_-,NCF20387.1,90.02,tryptophan halogenase,Haliea sp.
+Ar2_6630624_173_1669_+,NNC58199.1,85.54,tryptophan 7-halogenase,Woeseiaceae bacterium
+Ar2_679057_1532_3079_+,NEO47718.1,46.26,tryptophan 7-halogenase,Moorea sp. SIO4A3
+Ar2_871240_165_1718_+ (MHal2),RCJ31433.1,43.03,tryptophan halogenase,Nostoc punctiforme NIES-2108
+Ar2_871512_181_1803_-  (MHal1),TDJ38333.1,67.23,tryptophan 7-halogenase,Gammaproteobacteria bacterium
+Ar3_14288_361_1920_+,QIS94332.1,41.14,Tjp10,Fischerella ambigua 108b
+Ar4_1577928_7948_9471_- (MHal4),WP_152646774.1,82.7,tryptophan 7-halogenase,Thalassomonas actiniarum
+Ar4_429396_3524_5101_-,WP_101226616.1,81.26,tryptophan 7-halogenase,Colwellia sp. 75C3
+Ar4_550878_322_1800_+,WP_166163325.1,64.21,tryptophan 7-halogenase,Pseudomaricurvus alcaniphilus
+Ar7_464686_162_1676_+,NDF85594.1,68.41,tryptophan 7-halogenase,Gammaproteobacteria bacterium
+B1_1147162_10926_12431_+,NCF25318.1,90.89,tryptophan halogenase,Gammaproteobacteria bacterium
+B1_180418_1931_3439_+,NCF25318.1,91.72,tryptophan halogenase,Gammaproteobacteria bacterium
+B1_453176_4451_5965_-,NDF85594.1,70.65,tryptophan 7-halogenase,Gammaproteobacteria bacterium
+B1_531782_7174_8661_-,NNE61453.1,68.64,tryptophan 7-halogenase,Woeseia sp.
+B1_758926_379_1887_-,NCF25318.1,92.12,tryptophan halogenase,Gammaproteobacteria bacterium
+B1_794804_7734_9218_+,NNC58199.1,85.25,tryptophan 7-halogenase,Woeseiaceae bacterium
+B1_852963_634_2148_+,NDF85594.1,70.22,tryptophan 7-halogenase,Gammaproteobacteria bacterium
+C1_129573_654_2159_-,NCF25318.1,90.89,tryptophan halogenase,Gammaproteobacteria bacterium
+D1_330689_510_2015_+,NCF25318.1,90.28,tryptophan halogenase,Gammaproteobacteria bacterium
+D1_976237_539_2047_-,NOR19735.1,83.81,tryptophan halogenase,Xanthomonadales bacterium
+DJ3_890664_225_1775_-,NJM73989.1,41,tryptophan 7-halogenase,Scytonema sp. RU_4_4
+E2_124021_5936_7633_+,WP_167228033.1,80.46,tryptophan 7-halogenase,Pelagibius litoralis
+E2_1268410_131_1630_+,KPJ79598.1,83.05,tryptophan halogenase,Gammaproteobacteria bacterium SG8_30
+E2_228729_317_1807_-,NNL51934.1,78.05,tryptophan 7-halogenase,Woeseiaceae bacterium
+E2_301066_6789_8279_+,NNL51934.1,78.05,tryptophan 7-halogenase,Woeseiaceae bacterium
+E2_416528_1554_3068_-,RLA31701.1,61.59,tryptophan halogenase,Gammaproteobacteria bacterium
+E2_416528_3071_4669_-,NIL93470.1,69.58,tryptophan 7-halogenase,Woeseiaceae bacterium
+E2_435280_3233_4747_-,NDF85594.1,70.45,tryptophan 7-halogenase,Gammaproteobacteria bacterium
+E2_482376_10089_11573_+,NNE61453.1,73.52,tryptophan 7-halogenase,Woeseia sp.
+E2_585216_4941_6497_+,MBJ6640112.1,38.39,tryptophan 7-halogenase,Streptomyces sp. DHE7-1
+F_1114305_569_2068_+,NCF25318.1,92.43,tryptophan halogenase,Gammaproteobacteria bacterium
+F_251358_14711_16204_-,NNL46711.1,80.85,tryptophan 7-halogenase,Woeseiaceae bacterium
+F_2554_5839_7323_-,NNC58199.1,85.86,tryptophan 7-halogenase,Woeseiaceae bacterium
+F_473795_148_1653_-,NCF25318.1,91.09,tryptophan halogenase,Gammaproteobacteria bacterium
+F_566696_267_1766_+,WP_049630884.1,58.06,tryptophan 7-halogenase,Cellvibrio sp. pealriver
+F_753061_34_1527_+,KPJ79598.1,85.32,tryptophan halogenase,Gammaproteobacteria bacterium SG8_30
+F_928665_1795_3279_-,NNC58199.1,85.25,tryptophan 7-halogenase,Woeseiaceae bacterium
+NH1_3098306_502_1974_+,NNL46711.1,85.69,tryptophan 7-halogenase,Woeseiaceae bacterium
+NH1_3672489_588_2072_+,NIM69896.1,75.66,tryptophan halogenase,Xanthomonadales bacterium
+NH2_199207_5380_6867_+,WP_116808401.1,71.75,tryptophan 7-halogenase,Steroidobacter cummioxidans
+NH2_3216005_68_1561_-,NNL51934.1,81.58,tryptophan 7-halogenase,Woeseiaceae bacterium
+NH2_401775_7204_8718_-,NQY97535.1,56.51,tryptophan 7-halogenase,Henriciella sp.
+NH2_483900_3915_5420_+,NCF25318.1,91.3,tryptophan halogenase,Gammaproteobacteria bacterium
+NH2_524061_5392_6906_-,NQY40856.1,58.12,tryptophan 7-halogenase,Henriciella sp.
+NH2_774148_2434_3963_-,NQY40856.1,56.31,tryptophan 7-halogenase,Henriciella sp.
+NH3_1269263_10303_11787_+,NIM69896.1,75.51,tryptophan halogenase,Xanthomonadales bacterium
+NH3_2469726_2595_4133_-,TDG15197.1,66.53,tryptophan 7-halogenase,Halieaceae bacterium GH4-78
+NH3_2641698_729_2237_-,NNL03666.1,77.46,tryptophan 7-halogenase,Xanthomonadales bacterium
+NH3_3942581_717_2297_+,WP_033078320.1,64.74,tryptophan 7-halogenase,Thalassotalea sp. ND16A
+NH3_4374000_39_1553_+,NDF85594.1,69.42,tryptophan 7-halogenase,Gammaproteobacteria bacterium
+NH3_4392738_1657_3141_+,WP_142930230.1,77.05,tryptophan 7-halogenase,Exilibacterium tricleocarpae
+NH3_4680628_250_1737_-,RPH95316.1,82.76,tryptophan 7-halogenase,Xanthomonadales bacterium
+NH3_4687895_214_1755_+,RLA31701.1,67.13,tryptophan halogenase,Gammaproteobacteria bacterium
+NH3_568524_201_1703_+,NNJ78373.1,79.44,tryptophan 7-halogenase,Xanthomonadales bacterium
+NH3_743163_7164_8651_-,NNJ64833.1,86.59,tryptophan 7-halogenase,Xanthomonadales bacterium
+W4_185593_883_2367_+,NNC58199.1,85.07,tryptophan 7-halogenase,Woeseiaceae bacterium
+W4_2246360_834_2345_+,WP_049630884.1,57.32,tryptophan 7-halogenase,Cellvibrio sp. pealriver
+W4_2524533_987_2501_+,NQY97535.1,57.11,tryptophan 7-halogenase,Henriciella sp.
